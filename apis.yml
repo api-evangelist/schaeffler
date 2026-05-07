@@ -19,6 +19,12 @@ apis: []
 common:
   - type: Website
     url: https://www.schaeffler.com/
+  - type: Plans
+    url: plans/schaeffler-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/schaeffler-rate-limits.yml
+  - type: FinOps
+    url: finops/schaeffler-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
