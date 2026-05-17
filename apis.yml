@@ -1,7 +1,7 @@
 aid: schaeffler
 url: https://raw.githubusercontent.com/api-evangelist/schaeffler/refs/heads/main/apis.yml
 name: Schaeffler
-x-type: company
+kind: company
 description: >-
   Schaeffler Group is a German global Tier 1 automotive and industrial supplier headquartered in Herzogenaurach. Schaeffler designs and manufactures precision bearings, powertrain components, chassis applications, and e-mobility systems for the automotive and industrial sectors.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
