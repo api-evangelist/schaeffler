@@ -1,0 +1,11 @@
+{
+  "repo": "schaeffler",
+  "feeds": [
+    {
+      "source": "https://www.schaeffler.com/en/_global/rss/rss-feed-press.jsp",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 14
+}
