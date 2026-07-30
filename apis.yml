@@ -4,7 +4,19 @@ name: Schaeffler
 kind: company
 description: >-
   Schaeffler Group is a German global Tier 1 automotive and industrial supplier headquartered in Herzogenaurach. Schaeffler designs and manufactures precision bearings, powertrain components, chassis applications, and e-mobility systems for the automotive and industrial sectors.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: enterprise
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Enterprise
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/schaeffler.png
 tags:
   - Automotive
   - Industrial
